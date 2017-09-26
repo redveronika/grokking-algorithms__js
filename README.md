@@ -1,1 +1,1 @@
-"# grokking-algorithms__js" 
+## Implementation of popular algorithms in javaScript
